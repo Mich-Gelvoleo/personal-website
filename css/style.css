@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: Poppins;
+}
+
+nav {
+    background-color: #292b2c;
+    overflow: hidden;
+    color: white;
+    height: 50px;
+    text-align: center;
+    font-family: Poppins;
+}
+
+a {
+    display: inline-block; 
+    padding-right: 50px; 
+    text-decoration: none;
+    color: white;
+}
+
+#first{
+    display: inline-block; 
+    padding-top: 15px; 
+    padding-right: 50px; 
+    text-decoration: none; 
+    color: white;
+}
+
+#last{
+    display: inline-block; 
+    text-decoration: none;
+    color: white;
+}
